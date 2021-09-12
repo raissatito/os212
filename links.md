@@ -4,4 +4,11 @@ permalink: /LINKS/
 
 # LINKS
 
-1.
+1. [OS Main Reference](https://os.vlsm.org/)
+Link ini berisikan file dan instruksi yang lengkap untuk menjalankan mata kuliah sistem operasi semester ini yang dapat membantu kita mengerjakan tugas setiap minggunya
+
+2. [VirtualBox Setup](https://osp4diss.vlsm.org/#idx00b)
+Link ini membantu kita mempersiapkan VirtualBox dari dasar agar siap dipakai untuk pembelajaran mata kuliah sistem operasi ini 
+
+3. [Basic Linux Commands](https://www.hostinger.com/tutorials/linux-commands)
+Link ini memberikan pengetahuan dasar mengenai command yang ada pada linux
