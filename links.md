@@ -12,3 +12,7 @@ Link ini membantu kita mempersiapkan VirtualBox dari dasar agar siap dipakai unt
 
 3. [Basic Linux Commands](https://www.hostinger.com/tutorials/linux-commands)
 Link ini memberikan pengetahuan dasar mengenai command yang ada pada linux
+
+4. [OS Slides](https://www.os-book.com/OS10/slide-dir/)
+Link ini berisikan powerpoint materi yang dijadikan acuan untuk memahami mata kuliah sistem operasi ini
+
