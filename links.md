@@ -16,3 +16,5 @@ Link ini memberikan pengetahuan dasar mengenai command yang ada pada linux
 4. [OS Slides](https://www.os-book.com/OS10/slide-dir/)
 Link ini berisikan powerpoint materi yang dijadikan acuan untuk memahami mata kuliah sistem operasi ini
 
+5. [Filesystem Hierarchy Standard](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
+Link ini mencakup informasi yang lebih detail mengenai seputaran Filesystem Hierarchy Standard
