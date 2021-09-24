@@ -33,4 +33,17 @@ ZCZC W02 10 L20 Assignment 10
 ZCZZ W02 15 L09 Assignment 11
 ZCZC W02 15 L09 Assignment 12
 ZCZC W02 20 L09 Assignment 13
- 
+ZCZC W03 05 L22 Quiz 2 Part 1
+ZCZC W03 15 L22 Quiz 2 Part 2
+ZCZC W03 100 L02 Monday Daily Zoom Meeting
+ZCZC W03 20 L02 Thursday Daily Zoom Meeting
+ZCZC W03 60 L11 Assignment 1
+ZCZC W03 15 L12 Assignment 2
+ZCZC W03 15 L13 Assignment 3
+ZCZC W03 05 L14 Assignment 4
+ZCZC W03 45 L15 Assignment 5
+ZCZC W03 10 L16 Assignment 6
+ZCZC W03 10 L17 Assignment 7
+ZCZC W03 10 L18 Assignment 8
+ZCZC W03 15 L19 Assignment 9
+
