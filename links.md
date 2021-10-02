@@ -18,3 +18,7 @@ Link ini berisikan powerpoint materi yang dijadikan acuan untuk memahami mata ku
 
 5. [Filesystem Hierarchy Standard](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
 Link ini mencakup informasi yang lebih detail mengenai seputaran Filesystem Hierarchy Standard
+
+6. [Dynamic Memory Allocation](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+Link ini memberikan pengetahuan dasar mengenai prosedur Dynamic Memory pada C termasuk method methodnya.
+
