@@ -59,3 +59,15 @@ ZCZC W04 05 L16 Assignment 6
 ZCZC W04 10 L17 Assignment 7
 ZCZC W04 05 L18 Assignment 8
 ZCZC W04 15 L19 Assignment 9
+ZCZC W05 15 L22 Quiz 4 Part 2
+ZCZC W05 05 L22 Quiz 4 Part 1
+ZCZC W05 100 L02 Monday Daily Zoom Meeting
+ZCZC W05 90 L11 Assignment 1
+ZCZC W05 20 L12 Assignment 2
+ZCZC W05 15 L13 Assignment 3
+ZCZC W05 40 L14 Assignment 4
+ZCZC W05 10 L15 Assignment 5
+ZCZC W05 10 L17 Assignment 7
+ZCZC W05 05 L18 Assignment 8
+ZCZC W05 10 L19 Assignment 9
+

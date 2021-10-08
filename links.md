@@ -22,3 +22,6 @@ Link ini mencakup informasi yang lebih detail mengenai seputaran Filesystem Hier
 6. [Dynamic Memory Allocation](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
 Link ini memberikan pengetahuan dasar mengenai prosedur Dynamic Memory pada C termasuk method methodnya.
 
+7. [Contact Tips](https://www.computerhope.com/unix/uchmod.htm)
+Link ini memberikan tips pengerjaan contact W05 terutama dalam menganti mode directory ke 700
+
