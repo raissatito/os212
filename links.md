@@ -25,3 +25,6 @@ Link ini memberikan pengetahuan dasar mengenai prosedur Dynamic Memory pada C te
 7. [Contact Tips](https://www.computerhope.com/unix/uchmod.htm)
 Link ini memberikan tips pengerjaan contact W05 terutama dalam menganti mode directory ke 700
 
+8. [Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)
+Link ini menjelaskan mengenai concurrency beserta processe dan threads yang mencakup materi pada minggu 6
+
