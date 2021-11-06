@@ -28,3 +28,6 @@ Link ini memberikan tips pengerjaan contact W05 terutama dalam menganti mode dir
 8. [Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)
 Link ini menjelaskan mengenai concurrency beserta processe dan threads yang mencakup materi pada minggu 6
 
+9. [Synchronization and Deadlock](http://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)
+Link ini memberikan pemahaman dan gambaran dasar, serta visualisasi seputar synchronization dan deadlock
+
