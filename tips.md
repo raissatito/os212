@@ -8,4 +8,5 @@ permalink: /TIPS/
 2. Lakukan weekly contact dan forum diskusi mingguan apabila ada
 3. jangan lupa selalu lakukan git mantra setiap selesai mengerjakan assignment
 4. pastikan mengganti template menjadi akun github sendiri dalam mengerjakan weekly assignment
+5. perhatikan dengan teliti saat ingin run suatu script, bisa run as root dan run as user
 

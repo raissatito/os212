@@ -31,3 +31,6 @@ Link ini menjelaskan mengenai concurrency beserta processe dan threads yang menc
 9. [Synchronization and Deadlock](http://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)
 Link ini memberikan pemahaman dan gambaran dasar, serta visualisasi seputar synchronization dan deadlock
 
+10. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/chapter05/introduction.html)
+Link ini memberikan cara membuat linux dari awal yang berisikan command command yang diperlukan serta package yang dibutuhkan
+
